@@ -1,4 +1,4 @@
 # 100-days-of-code
-Troug this journey i will document my experience in 100 days of code python bootcamp.
+Throughout this journey, I will document my experience in the 100 Days of Code Python Bootcamp.
 
 status: Building 🚧
